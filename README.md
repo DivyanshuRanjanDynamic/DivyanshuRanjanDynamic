@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="DivyanshuRanjanDynamic's GitHub profile" src="dark_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg" />
+  <img alt="DivyanshuRanjanDynamic's GitHub profile" src="./dark_mode.svg" />
 </picture>
