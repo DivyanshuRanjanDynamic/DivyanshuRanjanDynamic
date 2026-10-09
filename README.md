@@ -22,7 +22,7 @@ I build software to solve real structural constraints and explore systems deeply
 
 ## Core Technology Stack
 
-- Languages: JavaScript, TypeScript, Python, Java, C++
+- Languages: JavaScript, TypeScript, Python, Java
 - Frontend: Next.js, React, Tailwind CSS, HTML, CSS
 - Backend & API: Node.js, Express.js, FastAPI, REST APIs, GraphQL , gRPC
 - Cloud & Serverless: AWS(ECS, S3, ECR, IAM, EC2), Vercel, Docker, Kubernetes, CI/CD
