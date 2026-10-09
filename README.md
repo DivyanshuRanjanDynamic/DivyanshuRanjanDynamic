@@ -1,13 +1,5 @@
 ## Hi there 👋 I'm Divyanshu Ranjan
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./dark_mode (1).svg">
-  <img alt="Divyanshu Ranjan GitHub Profile" src="./dark_mode.svg">
-</picture>
-
-
-
 ### 🛠️ Tech Stack
 
 **Languages:**
