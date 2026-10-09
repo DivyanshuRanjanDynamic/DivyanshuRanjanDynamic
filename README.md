@@ -2,18 +2,11 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:**
-Java · JavaScript · TypeScript · Python
-
-**Backend:**
- Node.js · Express.js · Django · FastAPI
-
-**Frontend:**
-React · Next.js · HTML · CSS · Tailwind CSS
-
-**Databases & Infrastructure:**
-MongoDB · PostgreSQL · Redis · AWS · Docker
-
-**AI/ML:**
-PyTorch · Transformers · WhisperX · LLM APIs
+**Languages**: Java, Python, JavaScript, TypeScript, SQL
+**Frontend**: React.js, Next.js, HTML/CSS
+**Backend & APIs**: Node.js, Express.js, FastAPI, REST APIs, WebSockets, gRPC
+**Databases & Caching**: PostgreSQL, MongoDB, Redis, ClickHouse
+**Cloud, DevOps & Tools**: AWS (EC2, ECS, ECR, S3), Docker, Apache Kafka, BullMQ, Git, GitHub, CI/CD, Postman
+**Core CS**: Data Structures & Algorithms, OOP, Operating Systems, Computer Networks, DBMS, System Design
+**AI/ML**: PyTorch · Transformers · WhisperX · LLM APIs
 
