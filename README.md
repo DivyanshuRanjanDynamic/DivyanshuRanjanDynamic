@@ -10,13 +10,13 @@ I build software to solve real structural constraints and explore systems deeply
 
 ## 🚀 Projects
 
-- **[ShipStack-Your-Personal-Deployment-Platform](https://github.com/DivyanshuRanjanDynamic/ShipStack-Your-Personal-Deployment-Platform)** — A realtime collaborative whiteboard + chat app. React + Vite for frontend. Express for backend. Redis for ephemeral storage. Socket.io for realtime communication. No auth, no sign in(yet). [[Live]](https://github.com/DivyanshuRanjanDynamic/ShipStack-Your-Personal-Deployment-Platform)
+- **[ShipStack-Your-Personal-Deployment-Platform](https://github.com/DivyanshuRanjanDynamic/ShipStack-Your-Personal-Deployment-Platform)** — shipStack was built to simplify the deployment workflow for frontend developers. Inspired by platforms like Vercel and Netlify, it provides a seamless experience for taking a GitHub repository and making it live on the web in minutes. It serves as an exploration into distributed systems, container orchestration, and real-time data streaming. [[Live]](https://github.com/DivyanshuRanjanDynamic/ShipStack-Your-Personal-Deployment-Platform)
 
-- **[MechHub](https://github.com/DivyanshuRanjanDynamic/studio)** — Anonymous messaging platform. Next.js fullstack, NextAuth, MongoDB, AI-suggested messages via OpenRouter, OTP verification, rate limiting with Upstash Redis. [[Live]](https://www.mechhub.in/)
+- **[MechHub](https://github.com/DivyanshuRanjanDynamic/studio)** — MechHub is a high-performance B2B industrial marketplace designed to bridge the gap between mechanical component manufacturers and industrial buyers.Our platform handles complex procurement workflows, automated quoting, and multi-part manufacturing project management with a focus on speed, precision, and reliability. [[Live]](https://www.mechhub.in/)
 
-- **[ClipGenius-AI](https://github.com/DivyanshuRanjanDynamic/ClipGenius-AI)** — Serverless blog platform built on AWS Lambda + DynamoDB with a React/Vite frontend. JWT auth, subscriber gating, 8 Lambda functions behind API Gateway. [[Live]](https://podclipper.vercel.app/)
+- **[ClipGenius-AI](https://github.com/DivyanshuRanjanDynamic/ClipGenius-AI)** — Enterprise-Grade Podcast Clip Generator .It solves the problem of  Content creators  who face a significant challenge: 80% of podcast content goes unused because manual clip creation is time-intensive and requires specialized video editing skills. Traditional methods take 2-3 hours to create a single viral clip, while our AI solution reduces this to under 5 minutes.[[Live]](https://podclipper.vercel.app/)
 
-- **[ProConnect](https://github.com/DivyanshuRanjanDynamic/Ignite-X)** — Two-stage matchmaking pipeline combining pgvector semantic retrieval with a Scikit-Learn regression ranker. Created as a learning project and works on synthetically generated data. [[Live]](https://ignite-x-alpha.vercel.app/)
+- **[ProConnect](https://github.com/DivyanshuRanjanDynamic/Ignite-X)** — The PM Internship AI Platform is a comprehensive, government-initiative platform designed to connect students across India with valuable internship opportunities. Built with cutting-edge technology and AI-powered recommendations, this platform streamlines the internship discovery and application process for both students and administrators. [[Live]](https://ignite-x-alpha.vercel.app/)
 
 ---
 
