@@ -18,8 +18,7 @@ I build software to solve real structural constraints and explore systems deeply
 
 - **[ProConnect](https://github.com/DivyanshuRanjanDynamic/Ignite-X)** — The PM Internship AI Platform is a comprehensive, government-initiative platform designed to connect students across India with valuable internship opportunities. Built with cutting-edge technology and AI-powered recommendations, this platform streamlines the internship discovery and application process for both students and administrators. [[Live]](https://ignite-x-alpha.vercel.app/)
   
-- **[AI Agent - Intelligent Code Assistant](https://github.com/DivyanshuRanjanDynamic/Agentic_Ai_Vibe_Coder)** — The PM Internship AI Platform is a comprehensive, government-initiative platform designed to connect students across India with valuable internship opportunities. Built with cutting-edge technology and AI-powered recommendations, this platform streamlines the internship discovery and application process for both students and administrators.
-
+- **[AI Agent - Intelligent Code Assistant](https://github.com/DivyanshuRanjanDynamic/Agentic_Ai_Vibe_Coder)** — An intelligent AI-powered code assistant that can execute commands, generate code, and help with development tasks using the Groq API and Llama 4 Maverick model.
 
 ---
 
