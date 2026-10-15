@@ -1,4 +1,4 @@
-# Hi, I'm Divyanshu Ranjan 👋
+# Hi, I'm Divyanshu Ranjan 👋 Portfolio: https://divyanshu.online
 
 ## About Me
 
@@ -36,4 +36,3 @@ I build software to solve real structural constraints and explore systems deeply
 - GitHub: github.com/DivyanshuRanjanDynamic
 - Email: divyanshu.work914214@gmail.com
 - LinkedIn: https://www.linkedin.com/in/divyanshu-ranjan-6b3b37277/
-- Portfolio: https://divyanshu.online
