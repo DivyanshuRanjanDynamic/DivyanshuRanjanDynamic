@@ -1,6 +1,6 @@
-# Hi, I'm Divyanshu Ranjan 👋 Portfolio: https://divyanshu.online
+# Hi, I'm Divyanshu Ranjan 👋
+## About Me - Portfolio: https://divyanshu.online
 
-## About Me
 
 I am a software engineer passionate about building scalable, efficient, and modern web applications. I enjoy working across the full stack, from user-facing interfaces to backend systems, distributed infrastructures, and AI-powered products.
 
