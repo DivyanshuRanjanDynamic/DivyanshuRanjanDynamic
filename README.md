@@ -10,7 +10,7 @@ I build software to solve real structural constraints and explore systems deeply
 
 ## 🚀 Projects
 
-- **[ShipStack-Your-Personal-Deployment-Platform](https://github.com/DivyanshuRanjanDynamic/ShipStack-Your-Personal-Deployment-Platform)** — shipStack was built to simplify the deployment workflow for frontend developers. Inspired by platforms like Vercel and Netlify, it provides a seamless experience for taking a GitHub repository and making it live on the web in minutes. It serves as an exploration into distributed systems, container orchestration, and real-time data streaming. [[Live]](https://ship-stack-your-personal-deployment.vercel.app)
+- **[ShipStack-Your-Personal-Deployment-Platform](https://github.com/DivyanshuRanjanDynamic/ShipStack-Your-Personal-Deployment-Platform)** — shipStack was built to simplify the deployment workflow for frontend developers. Inspired by platforms like Vercel and Netlify, it provides a seamless experience for taking a GitHub repository and making it live on the web in minutes. It serves as an exploration into distributed systems, container orchestration, and real-time data streaming. [[Live]](https://ship-stack-your-personal-deployment.vercel.app/marketing)
 
 - **[MechHub](https://github.com/DivyanshuRanjanDynamic/studio)** — MechHub is a high-performance B2B industrial marketplace designed to bridge the gap between mechanical component manufacturers and industrial buyers.Our platform handles complex procurement workflows, automated quoting, and multi-part manufacturing project management with a focus on speed, precision, and reliability. [[Live]](https://www.mechhub.in/)
 
