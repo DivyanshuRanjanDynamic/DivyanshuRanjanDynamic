@@ -10,6 +10,8 @@ I build software to solve real structural constraints and explore systems deeply
 
 ## 🚀 Projects
 
+- **[Nightjar - A real-time interview copilot that hides in plain sight.](https://github.com/DivyanshuRanjanDynamic/Nightjar)** — Nightjar listens to your interview, understands each question, and streams an answer grounded in your resume, the job description and the company, in an overlay that stays out of screen shares and recordings. [[Live]](https://nightjar-steel.vercel.app/)
+
 - **[ShipStack-Your-Personal-Deployment-Platform](https://github.com/DivyanshuRanjanDynamic/ShipStack-Your-Personal-Deployment-Platform)** — shipStack was built to simplify the deployment workflow for frontend developers. Inspired by platforms like Vercel and Netlify, it provides a seamless experience for taking a GitHub repository and making it live on the web in minutes. It serves as an exploration into distributed systems, container orchestration, and real-time data streaming. [[Live]](https://ship-stack-your-personal-deployment.vercel.app)
 
 - **[MechHub](https://github.com/DivyanshuRanjanDynamic/studio)** — MechHub is a high-performance B2B industrial marketplace designed to bridge the gap between mechanical component manufacturers and industrial buyers.Our platform handles complex procurement workflows, automated quoting, and multi-part manufacturing project management with a focus on speed, precision, and reliability. [[Live]](https://www.mechhub.in/)
