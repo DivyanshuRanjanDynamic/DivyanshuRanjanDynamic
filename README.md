@@ -18,7 +18,7 @@ I build software to solve real structural constraints and explore systems deeply
 
 - **[Plylens - A design toolkit for any web page, right inside Chrome.](https://github.com/DivyanshuRanjanDynamic/Nightjar)** — Nightjar listens to your interview, understands each question, and streams an answer grounded in your resume, the job description and the company, in an overlay that stays out of screen shares and recordings.
   
-- **[MechHub Blueprint - Describe a machine. Get a blueprint you can build.](https://github.com/DivyanshuRanjanDynamic/plylens)** — Inspect, measure and capture any site, then hand it to your AI coding agent as a DESIGN.md or a rebuild prompt. 15 tools, one dock, zero servers.[[Live]]()
+- **[MechHub Blueprint - Describe a machine. Get a blueprint you can build.](https://github.com/DivyanshuRanjanDynamic/Mechhub-blueprint.io)** — Inspect, measure and capture any site, then hand it to your AI coding agent as a DESIGN.md or a rebuild prompt. 15 tools, one dock, zero servers.[[Live]](https://mechhub-blueprint-io.vercel.app/)
 
 - **[ClipGenius-AI](https://github.com/DivyanshuRanjanDynamic/ClipGenius-AI)** — Enterprise-Grade Podcast Clip Generator .It solves the problem of  Content creators  who face a significant challenge: 80% of podcast content goes unused because manual clip creation is time-intensive and requires specialized video editing skills. Traditional methods take 2-3 hours to create a single viral clip, while our AI solution reduces this to under 5 minutes.[[Live]](https://podclipper.vercel.app/)
 
